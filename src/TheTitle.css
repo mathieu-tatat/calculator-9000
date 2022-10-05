@@ -1,0 +1,13 @@
+
+.my-h1 {
+    font-size:2em;
+    text-align: center;
+    text-shadow: rgba(190, 115, 29, 0.81) 0px 2px 8px 0px;
+    color: rgba(190, 115, 29, 0.81) 0px 2px 8px 0px;;
+}
+
+.d-Flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

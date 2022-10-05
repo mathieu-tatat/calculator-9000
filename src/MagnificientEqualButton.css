@@ -1,0 +1,28 @@
+.button-eq {
+    width: 12vh;
+    margin-top:1vh;
+    color: #f60707;
+    padding: 2vh;
+    font-size: 2em;
+    border: solid 1px white;
+    border-radius: 2vh;
+    background-color:white;
+   
+}
+
+.button-eq:hover {
+   
+    color:white;
+    padding: 2vh;
+    font-size: 2em;
+    border: solid 1px white;
+    background-color: #f60707;
+   
+}
+
+.d-flex{
+    display:flex;
+}
+.center{
+    justify-content: center;
+}

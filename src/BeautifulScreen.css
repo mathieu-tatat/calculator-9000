@@ -1,0 +1,21 @@
+
+.screen {
+    text-align:right;
+    color: white;
+    padding: 2vh;
+    font-size: 3em;
+    background-color: rgb(2, 8, 10);
+    border: solid 1px whitesmoke;
+    border-radius: 1vh;
+    height: 10vh;
+    width: 55vh;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    overflow-y: hidden;
+}
+
+.d-flex{
+    display:flex;
+}
+.center{
+    justify-content: center;
+}

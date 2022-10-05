@@ -1,0 +1,38 @@
+
+.myButtons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 12vh;
+    margin-top: 1vh;
+    color: black;
+    padding: 2vh;
+    font-size: 3em;
+    border: solid 1px #c68226;
+    border-radius: 50%;
+    background-color: #9cb9cd;
+}
+.button:hover {
+    border: solid 1px #9cb9cd;
+    background-color:#c68226;
+   
+}
+
+
+
+.d-flex{
+    display:flex;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}

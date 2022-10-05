@@ -1,0 +1,29 @@
+
+.myButtons-op {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    flex-wrap: wrap;
+}
+
+.button-op {
+    width: 10vh;
+    margin-top:1vh;
+    color: #d47315eb;;
+    padding: 2vh;
+    font-size: 2em;
+    border: solid 1px white;
+    border-radius: 50%;
+    background-color:white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0 7px 29px 0;
+}
+
+.button-op:hover {
+
+    color: #d42215eb;;
+    
+    border: solid 1px rgb(116, 156, 142);
+    
+    background-color:rgb(116, 156, 142);
+}
